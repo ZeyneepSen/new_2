@@ -34,3 +34,5 @@ namespace MetotOrtalama
         }
     }
 }
+Convert.ToSingle("elc");
+Convert.ToSingle("yazili");
