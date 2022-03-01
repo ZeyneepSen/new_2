@@ -14,3 +14,5 @@ static void Main(string[] args)
             Console.WriteLine(yeniMetin);
             Console.ReadLine();
         }
+        Console.WriteLine();
+        Console.ReadLine();
