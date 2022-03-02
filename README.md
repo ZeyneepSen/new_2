@@ -5,4 +5,3 @@
 #şirket
 #merha
 #merhaba
-#olcak
